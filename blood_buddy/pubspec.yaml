@@ -1,0 +1,52 @@
+name: blood_buddy
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  cloud_firestore: ^5.5.0
+  curved_navigation_bar: ^1.0.6
+  firebase_core: ^3.8.0
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1 
+  bounce: ^1.0.2
+  firebase_auth: ^5.3.3
+  intl: ^0.19.0
+  shared_preferences: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/blood1.jpeg
+    - assets/1.jpg
+    - assets/d1.jpg
+    - assets/d2.jpg
+    - assets/d3.jpg
+    - assets/d4.jpg
+    - assets/d5.jpg
+    - assets/d6.jpg
+    - assets/d7.jpg
+    - assets/d8.jpg
+    - assets/images.jpeg
+    - assets/images2.jpeg
+    - assets/images3.png
+    - assets/image4.png
+    - assets/campaign.jpeg
+    - assets/images5.jpeg
+    - assets/images6.jpg
+    - assets/image8.jpg
+    - assets/blood.jpg
+    - assets/image7.jpg
+    - assets/abc.jpeg
+    - assets/blood1.png
+

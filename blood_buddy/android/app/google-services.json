@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380693671048",
+    "project_id": "aditi-5ea63",
+    "storage_bucket": "aditi-5ea63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380693671048:android:a7f4226966d096a34f833d",
+        "android_client_info": {
+          "package_name": "com.example.blood_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjw-gmygyBZ1zZ_5JY2wGvjBFTxKFSbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
