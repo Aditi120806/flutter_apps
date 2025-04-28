@@ -200,7 +200,7 @@ class _Home extends State<Myhomepage> {
                               children: [
                                 const SizedBox(width: 8),
                                 SizedBox(
-                                  width: MediaQuery.of(context).size.width / 2 - 30,
+                                  //width: MediaQuery.of(context).size.width / 2 - 30,
                                   child: FeatureButton(
                                     icon: Icons.groups,
                                     label: "About Us",
@@ -215,7 +215,7 @@ class _Home extends State<Myhomepage> {
                                 ),
                                 //const SizedBox(width: 10),
                                 SizedBox(
-                                  width: MediaQuery.of(context).size.width / 2 - 30,
+                                  //width: MediaQuery.of(context).size.width / 2 - 30,
                                   child: FeatureButton(
                                     icon: Icons.diversity_1,
                                     label: "Health checkup",
